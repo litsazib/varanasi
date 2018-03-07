@@ -508,7 +508,7 @@
 			}
 		
 			.section-desc a.colored {
-				color: #8f7337;
+				color: #ea0a34;
 				text-decoration: underline;
 			}
 			
@@ -517,7 +517,7 @@
 				}
 				
 		.section-desc small {
-			color: #928466;
+			color: #ea0a34;
 		}
 		
 	.section-button-wrapper {
@@ -808,7 +808,7 @@
 		.section-contact .content .box + .box {
 			margin-top: 29px;
 			padding-top: 20px;
-			border-top: 1px solid rgba(143,115,55,0.7);
+			border-top: 1px solid #ea0a34;
 		}
 		
 		.section-contact .content .section-desc {
